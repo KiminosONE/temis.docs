@@ -1,0 +1,9 @@
+{
+  "name": "Temis Legal",
+  "short_name": "Temis",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#292e32",
+  "theme_color": "#634da6",
+  "icons": []
+}
